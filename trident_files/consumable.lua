@@ -1,4 +1,4 @@
--- script hash: a0d1f321419725463d22ee17fff8efa4aefbfc5b7052fae33d15b82ec9130be51d63c67fc71d78e4efdf387923983e5c
+-- script_hash: a0d1f321419725463d22ee17fff8efa4aefbfc5b7052fae33d15b82ec9130be51d63c67fc71d78e4efdf387923983e5c
 local v1 = {}
 local v3 = _G.modules
 local v5 = game:GetService("ReplicatedStorage")
